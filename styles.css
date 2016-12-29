@@ -1,0 +1,28 @@
+
+.primary_header {
+              background: #89c;
+              float: center;
+              font-family: courier;
+              box-shadow: 10px 10px 10px 1px #444;
+              text-shadow: 1px 1px 1px rgba(10, 10, 10, 1);
+              position: relative;
+              padding: 1px;
+              border-style: outset;
+              border-color: #999;
+              border-width: 2px;
+ }
+
+p.aside {
+
+        font-color: #000000;
+        font-family: courier;
+        letter-spacing: -1px;
+        padding: 2px;
+}
+
+body {
+        background: #d9ffff;
+        background: -webkit-linear-gradient(#d9ffff, #8294ac);
+        background:    -moz-linear-gradient(#d9ffff, #8294ac);
+        background:         linear-gradient(#d9ffff, #8294ac);
+}
