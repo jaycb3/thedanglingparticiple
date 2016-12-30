@@ -25,4 +25,5 @@ body {
         background: -webkit-linear-gradient(#d9ffff, #8294ac);
         background:    -moz-linear-gradient(#d9ffff, #8294ac);
         background:         linear-gradient(#d9ffff, #8294ac);
+        float: center;
 }
