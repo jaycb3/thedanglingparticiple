@@ -21,8 +21,10 @@ p.aside {
 }
 
 body {
+
         background: #d9ffff;
         background: -webkit-linear-gradient(#CDFFFF, #331D20);
         background:    -moz-linear-gradient(#CDFFFF, #331D20);
         background:         linear-gradient(#CDFFFF, #331D20);
+
 }
