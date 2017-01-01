@@ -1,6 +1,6 @@
 
 .primary_header {
-              background: #89c;
+              background: #CDFFFF;
               float: center;
               font-family: courier;
               box-shadow: 10px 10px 10px 1px #444;
@@ -21,9 +21,10 @@ p.aside {
 }
 
 body {
-        background: #d8eeee;
-        background: -webkit-linear-gradient(#d9ffff, #8294ac);
-        background:    -moz-linear-gradient(#d9ffff, #8294ac);
-        background:         linear-gradient(#d9ffff, #8294ac);
-        float: center;
+
+        background: #d9ffff;
+        background: -webkit-linear-gradient(#CDFFFF, #331D20);
+        background:    -moz-linear-gradient(#CDFFFF, #331D20);
+        background:         linear-gradient(#CDFFFF, #331D20);
+
 }
